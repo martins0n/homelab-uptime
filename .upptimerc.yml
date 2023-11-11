@@ -12,7 +12,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.lab.martins0n.com
-  logoUrl: https://gist.githubusercontent.com/martins0n/85e9b0db17cdf348bc29c6df3f979c8a/raw/1ae0a9a91bc8bc5eb28b8783ef6d682e930e5c71/homelab.svg
+  logoUrl: https://gist.githubusercontent.com/martins0n/85e9b0db17cdf348bc29c6df3f979c8a/raw/9f605a569a7d5fe47ae976e3cbda88f129461b4b/leopard.svg
+  faviconSvg: https://gist.githubusercontent.com/martins0n/85e9b0db17cdf348bc29c6df3f979c8a/raw/9f605a569a7d5fe47ae976e3cbda88f129461b4b/leopard.svg
   name: homelab
   navbar:
     - title: Status
