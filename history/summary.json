@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello.lab.martins0n.com.ico",
     "slug": "hello",
     "status": "up",
-    "uptime": "92.13%",
+    "uptime": "92.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.45%",
     "time": 675,
-    "timeDay": 557,
-    "timeWeek": 564,
-    "timeMonth": 600,
+    "timeDay": 725,
+    "timeWeek": 593,
+    "timeMonth": 599,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2024-10-10": 1271,
@@ -58,8 +58,7 @@
       "2024-02-02": 87,
       "2024-01-31": 113,
       "2023-12-29": 834,
-      "2023-12-28": 390,
-      "2023-12-15": 462
+      "2023-12-28": 390
     }
   },
   {
@@ -74,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
     "time": 815,
-    "timeDay": 1127,
-    "timeWeek": 1108,
-    "timeMonth": 1138,
-    "timeYear": 845,
+    "timeDay": 1099,
+    "timeWeek": 1106,
+    "timeMonth": 1128,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2024-09-07": 31,
       "2024-09-06": 29,
@@ -88,8 +87,7 @@
       "2024-02-09": 293,
       "2024-01-31": 112,
       "2023-12-29": 834,
-      "2023-12-28": 390,
-      "2023-12-15": 462
+      "2023-12-28": 390
     }
   }
 ]
