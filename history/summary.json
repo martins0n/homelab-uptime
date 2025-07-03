@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello.lab.martins0n.com.ico",
     "slug": "hello",
     "status": "up",
-    "uptime": "89.24%",
+    "uptime": "89.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "54.31%",
+    "uptimeMonth": "57.59%",
     "uptimeYear": "85.80%",
     "time": 667,
-    "timeDay": 691,
-    "timeWeek": 633,
-    "timeMonth": 650,
-    "timeYear": 671,
+    "timeDay": 631,
+    "timeWeek": 645,
+    "timeMonth": 649,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2025-06-15": 1329,
       "2025-06-14": 1440,
@@ -73,8 +73,7 @@
       "2024-08-02": 1440,
       "2024-08-01": 677,
       "2024-07-31": 427,
-      "2024-07-30": 709,
-      "2024-07-03": 28
+      "2024-07-30": 709
     }
   },
   {
@@ -88,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.29%",
     "uptimeYear": "97.80%",
-    "time": 1046,
-    "timeDay": 1477,
-    "timeWeek": 1349,
-    "timeMonth": 1416,
-    "timeYear": 1241,
+    "time": 1048,
+    "timeDay": 1307,
+    "timeWeek": 1316,
+    "timeMonth": 1415,
+    "timeYear": 1243,
     "dailyMinutesDown": {
       "2025-06-15": 16,
       "2025-06-12": 1047,
@@ -110,8 +109,7 @@
       "2025-05-13": 636,
       "2025-02-14": 185,
       "2024-09-07": 31,
-      "2024-09-06": 29,
-      "2024-07-03": 28
+      "2024-09-06": 29
     }
   }
 ]
