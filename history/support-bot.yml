@@ -1,7 +1,7 @@
 url: https://support-bot.martins0n.com/api/health
-status: down
-code: 530
-responseTime: 772
-lastUpdated: 2025-10-25T14:05:32.685Z
+status: up
+code: 200
+responseTime: 1565
+lastUpdated: 2025-10-25T14:15:51.568Z
 startTime: 2023-11-11T21:13:12.754Z
 generator: Upptime <https://github.com/upptime/upptime>
