@@ -7,6 +7,8 @@ sites:
     url: https://hello.lab.martins0n.com
   - name: support-bot
     url: https://support-bot.martins0n.com/api/health
+  - name: t0nnel                                                                                                                                                                                           
+    url: https://cool-mode-cbb4.martinmail3972.workers.dev
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
