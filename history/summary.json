@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello.lab.martins0n.com.ico",
     "slug": "hello",
     "status": "down",
-    "uptime": "75.99%",
+    "uptime": "75.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2026-05-15": 719,
+      "2026-05-16": 59,
+      "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
       "2026-05-12": 1440,
@@ -207,8 +208,7 @@
       "2025-05-20": 1440,
       "2025-05-19": 1440,
       "2025-05-18": 1440,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -221,12 +221,12 @@
     "uptimeDay": "95.51%",
     "uptimeWeek": "98.45%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.88%",
     "time": 1369,
-    "timeDay": 3502,
-    "timeWeek": 1864,
-    "timeMonth": 1569,
-    "timeYear": 1349,
+    "timeDay": 3617,
+    "timeWeek": 1873,
+    "timeMonth": 1572,
+    "timeYear": 1350,
     "dailyMinutesDown": {
       "2026-05-15": 65,
       "2026-05-14": 68,
@@ -265,8 +265,7 @@
       "2025-05-22": 146,
       "2025-05-21": 121,
       "2025-05-18": 1115,
-      "2025-05-17": 1440,
-      "2025-05-16": 1440
+      "2025-05-17": 1440
     }
   },
   {
@@ -275,16 +274,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cool-mode-cbb4.martinmail3972.workers.dev.ico",
     "slug": "t0nnel",
     "status": "up",
-    "uptime": "96.65%",
+    "uptime": "96.69%",
     "uptimeDay": "93.42%",
-    "uptimeWeek": "97.32%",
+    "uptimeWeek": "97.54%",
     "uptimeMonth": "95.95%",
-    "uptimeYear": "96.65%",
-    "time": 2631,
-    "timeDay": 2698,
-    "timeWeek": 2427,
+    "uptimeYear": "96.69%",
+    "time": 2614,
+    "timeDay": 2716,
+    "timeWeek": 2333,
     "timeMonth": 2658,
-    "timeYear": 2631,
+    "timeYear": 2614,
     "dailyMinutesDown": {
       "2026-05-15": 95,
       "2026-05-11": 96,
