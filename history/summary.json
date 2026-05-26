@@ -164,7 +164,7 @@
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 217,
-      "2026-05-26": 1030,
+      "2026-05-26": 1091,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -269,17 +269,17 @@
     "url": "https://cool-mode-cbb4.martinmail3972.workers.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cool-mode-cbb4.martinmail3972.workers.dev.ico",
     "slug": "t0nnel",
-    "status": "down",
-    "uptime": "97.07%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "97.75%",
-    "uptimeMonth": "95.46%",
-    "uptimeYear": "97.07%",
-    "time": 2525,
-    "timeDay": 3314,
-    "timeWeek": 2072,
-    "timeMonth": 2663,
-    "timeYear": 2525,
+    "status": "up",
+    "uptime": "96.98%",
+    "uptimeDay": "90.06%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "95.32%",
+    "uptimeYear": "96.98%",
+    "time": 2510,
+    "timeDay": 2739,
+    "timeWeek": 1964,
+    "timeMonth": 2645,
+    "timeYear": 2510,
     "dailyMinutesDown": {
       "2026-04-25": 36,
       "2026-04-26": 61,
@@ -302,7 +302,7 @@
       "2026-05-16": 24,
       "2026-05-22": 58,
       "2026-05-24": 86,
-      "2026-05-26": 82
+      "2026-05-26": 143
     }
   }
 ]
