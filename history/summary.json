@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hello.lab.martins0n.com.ico",
     "slug": "hello",
     "status": "down",
-    "uptime": "75.13%",
+    "uptime": "75.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -164,7 +164,7 @@
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 217,
-      "2026-05-26": 65,
+      "2026-05-26": 877,
       "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
@@ -226,7 +226,7 @@
     "timeDay": 2200,
     "timeWeek": 1742,
     "timeMonth": 1781,
-    "timeYear": 1374,
+    "timeYear": 1376,
     "dailyMinutesDown": {
       "2025-05-31": 396,
       "2025-05-30": 639,
@@ -269,17 +269,17 @@
     "url": "https://cool-mode-cbb4.martinmail3972.workers.dev",
     "icon": "https://icons.duckduckgo.com/ip3/cool-mode-cbb4.martinmail3972.workers.dev.ico",
     "slug": "t0nnel",
-    "status": "up",
-    "uptime": "97.15%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.18%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.57%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "97.15%",
-    "time": 2488,
-    "timeDay": 551,
-    "timeWeek": 1483,
-    "timeMonth": 2623,
-    "timeYear": 2488,
+    "uptimeYear": "97.18%",
+    "time": 2513,
+    "timeDay": 3287,
+    "timeWeek": 1861,
+    "timeMonth": 2652,
+    "timeYear": 2513,
     "dailyMinutesDown": {
       "2026-04-25": 36,
       "2026-04-26": 61,
@@ -301,7 +301,8 @@
       "2026-05-15": 95,
       "2026-05-16": 24,
       "2026-05-22": 58,
-      "2026-05-24": 86
+      "2026-05-24": 86,
+      "2026-05-26": 0
     }
   }
 ]
