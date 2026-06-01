@@ -7,8 +7,14 @@ sites:
     url: https://hello.lab.martins0n.com
   - name: support-bot
     url: https://support-bot.martins0n.com/api/health
-  - name: t0nnel                                                                                                                                                                                           
-    url: https://cool-mode-cbb4.martinmail3972.workers.dev
+  - name: t0nnel
+    url: https://api.eu.newrelic.com/graphql
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+      - "API-Key: $NR_API_KEY"
+    body: '{"query":"{ actor { account(id: 4266089) { nrql(query: \"SELECT latest(`vpn.status`) FROM VpnHealthSample SINCE 5 minutes ago\") { results } } } }"}'
+    __dangerous__body_down_if_text_missing: '"UP"'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
