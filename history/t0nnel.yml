@@ -1,7 +1,7 @@
 url: https://api.eu.newrelic.com/graphql
-status: down
+status: up
 code: 200
-responseTime: 283
-lastUpdated: 2026-06-24T23:18:41.399Z
+responseTime: 260
+lastUpdated: 2026-06-24T23:26:46.266Z
 startTime: 2026-04-08T18:06:30.582Z
 generator: Upptime <https://github.com/upptime/upptime>
