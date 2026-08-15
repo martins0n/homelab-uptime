@@ -113,7 +113,7 @@
       "2026-03-26": 1440,
       "2026-03-25": 1440,
       "2026-03-24": 217,
-      "2026-08-15": 818,
+      "2026-08-15": 837,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -294,17 +294,17 @@
     "url": "https://api.eu.newrelic.com/graphql",
     "icon": "https://icons.duckduckgo.com/ip3/api.eu.newrelic.com.ico",
     "slug": "t0nnel",
-    "status": "down",
-    "uptime": "97.43%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "95.19%",
-    "uptimeYear": "97.43%",
-    "time": 1768,
-    "timeDay": 497,
-    "timeWeek": 599,
-    "timeMonth": 799,
-    "timeYear": 1768,
+    "status": "up",
+    "uptime": "97.42%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "97.42%",
+    "time": 1764,
+    "timeDay": 561,
+    "timeWeek": 616,
+    "timeMonth": 800,
+    "timeYear": 1764,
     "dailyMinutesDown": {
       "2026-04-25": 36,
       "2026-04-26": 61,
@@ -340,7 +340,7 @@
       "2026-08-05": 373,
       "2026-08-04": 1371,
       "2026-08-10": 56,
-      "2026-08-15": 0
+      "2026-08-15": 18
     }
   }
 ]
